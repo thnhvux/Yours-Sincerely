@@ -1,6 +1,7 @@
 {
   "id": "yours-sincerely",
   "platforms": {
+    "curseforge": "yours-sincerely",
     "modrinth": "yours-sincerely"
   }
 }
