@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chest_boat",
+  "pattern": [
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:pale_oak_wood"
+    ],
+    "C": [
+      "minecraft:chest"
+    ]
+  },
+  "result": {
+    "id": "minecraft:pale_oak_chest_boat",
+    "count": 4
+  }
+}

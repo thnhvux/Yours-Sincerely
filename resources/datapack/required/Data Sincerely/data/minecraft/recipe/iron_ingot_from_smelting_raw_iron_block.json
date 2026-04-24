@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 2700,
+  "experience": 6.3,
+  "group": "iron_ingot",
+  "ingredient": "minecraft:raw_iron_block",
+  "result": {
+    "count": 9,
+    "id": "minecraft:iron_ingot"
+  }
+}

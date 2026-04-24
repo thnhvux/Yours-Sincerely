@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chest_boat",
+  "pattern": [
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:stripped_birch_log"
+    ],
+    "C": [
+      "minecraft:chest"
+    ]
+  },
+  "result": {
+    "id": "minecraft:birch_chest_boat",
+    "count": 4
+  }
+}

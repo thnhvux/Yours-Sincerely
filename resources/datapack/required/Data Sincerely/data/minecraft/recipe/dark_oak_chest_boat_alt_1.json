@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chest_boat",
+  "key": {
+    "#": "minecraft:dark_oak_log",
+    "C": "minecraft:chest"
+  },
+  "pattern": [
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:dark_oak_chest_boat",
+    "count": 4
+  }
+}

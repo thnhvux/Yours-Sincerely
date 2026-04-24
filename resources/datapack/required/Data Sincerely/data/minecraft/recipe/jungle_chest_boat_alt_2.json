@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chest_boat",
+  "pattern": [
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:jungle_wood"
+    ],
+    "C": [
+      "minecraft:chest"
+    ]
+  },
+  "result": {
+    "id": "minecraft:jungle_boat",
+    "count": 4
+  }
+}

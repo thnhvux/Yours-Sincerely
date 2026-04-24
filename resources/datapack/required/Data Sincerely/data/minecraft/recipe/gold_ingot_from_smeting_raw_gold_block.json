@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 675,
+  "experience": 9,
+  "group": "gold_ingot",
+  "ingredient": "minecraft:raw_gold_block",
+  "result": {
+    "count": 9,
+    "id": "minecraft:gold_ingot"
+  }
+}

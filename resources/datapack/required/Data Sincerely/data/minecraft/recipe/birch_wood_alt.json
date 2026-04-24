@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "bark",
+  "ingredients": [
+    "minecraft:stripped_birch_wood",
+    "farmersdelight:tree_bark"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_wood"
+  }
+}
