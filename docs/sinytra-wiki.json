@@ -1,7 +1,8 @@
 {
-  "id": "yours-sincerely",
+  "id": "examplemod",
+  "modid": "examplemod",
   "platforms": {
-    "curseforge": "yours-sincerely",
-    "modrinth": "yours-sincerely"
+    "curseforge": "example-mod",
+    "modrinth": "example-mod"
   }
 }
